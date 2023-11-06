@@ -1368,11 +1368,11 @@ MonoBehaviour:
   ui: {fileID: 4736109004037874852}
   cameraHolder: {fileID: 3994771687576797773}
   cameraHolder2: {fileID: 2289532605830024395}
-  mouseSensitivity: 3
-  sprintSpeed: 6
-  walkSpeed: 3
+  mouseSensitivity: 2
+  sprintSpeed: 12
+  walkSpeed: 8
   jumpforce: 300
-  smoothTIme: 0.15
+  smoothTIme: 0.1
   items:
   - {fileID: 1411914667767308700}
   - {fileID: 6556974003183394631}
@@ -1384,7 +1384,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6742367480149157271}
   serializedVersion: 4
-  m_Mass: 1
+  m_Mass: 1.2
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
